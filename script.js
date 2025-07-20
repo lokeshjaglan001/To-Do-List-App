@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded',()=>{
     let tasksdata = document.getElementById('task-form');
     let tasksList = document.getElementById('task-list');
 
-
     let filter = 'all';
 
     let all = document.getElementById('all');
